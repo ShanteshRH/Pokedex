@@ -1,0 +1,20 @@
+{
+  "normal": { "color": "0xFFA8A77A" },
+  "fighting": { "color": "0xFFC22E28" },
+  "flying": { "color": "0xFFA98FF3" },
+  "poison": { "color": "0xFFA33EA1" },
+  "ground": { "color": "0xFFE2BF65" },
+  "rock": { "color": "0xFFB6A136" },
+  "bug": { "color": "0xFFA6B91A" },
+  "ghost": { "color": "0xFF735797" },
+  "steel": { "color": "0xFFB7B7CE" },
+  "fire": { "color": "0xFFEE8130" },
+  "water": { "color": "0xFF6390F0" },
+  "grass": { "color": "0xFF7AC74C" },
+  "electric": { "color": "0xFFF7D02C" },
+  "psychic": { "color": "0xFFF95587" },
+  "ice": { "color": "0xFF96D9D6" },
+  "dragon": { "color": "0xFF6F35FC" },
+  "dark": { "color": "0xFF705746" },
+  "fairy": { "color": "0xFFD685AD" }
+}
