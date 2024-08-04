@@ -1,16 +1,8 @@
-# pokedex
+# Pokedex App
 
-A new Flutter project.
+The Pokedex Flutter app is a mobile application developed using Flutter that allows users to view detailed information about Pokémon. The app fetches Pokémon data from a public API and displays information such as type, weight, height, and stats. This project showcases the use of Flutter for building a responsive and interactive user interface.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Pokémon List: Displays a list of Pokémon with their names and images.
+Detailed View: Shows detailed information about a selected Pokémon, including its type, weight, height, and stats.
+Responsive Design: The app is designed to work well on various screen sizes and orientations.
